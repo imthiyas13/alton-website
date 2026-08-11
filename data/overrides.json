@@ -1,5 +1,13 @@
 {
-  "updatedAt": "2026-08-11T00:00:00Z",
-  "rules": [],
+  "updatedAt": "2026-08-11T16:53:57Z",
+  "rules": [
+    {
+      "from": "2026-08-11",
+      "to": "9999-12-31",
+      "prayer": "jumma1",
+      "iqamah": "13:00",
+      "note": ""
+    }
+  ],
   "errors": []
 }
