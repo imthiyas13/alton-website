@@ -1,0 +1,14 @@
+{
+  "updatedAt": "2026-08-15T08:35:49Z",
+  "show": {
+    "Ayah": true,
+    "Hadith": false,
+    "Wisdom": true
+  },
+  "hidden": {
+    "Ayah": [],
+    "Hadith": [],
+    "Wisdom": []
+  },
+  "items": []
+}
