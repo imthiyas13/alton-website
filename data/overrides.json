@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-08-15T13:17:31Z",
+  "updatedAt": "2026-08-15T13:31:52Z",
   "rules": [
     {
       "from": "2026-08-11",
       "to": "9999-12-31",
       "prayer": "jumma1",
-      "iqamah": "13:00",
+      "iqamah": "01:30",
       "note": ""
     },
     {
@@ -32,15 +32,15 @@
     {
       "from": "2026-08-15",
       "to": "9999-12-31",
-      "prayer": "zuhr",
-      "iqamah": "13:30",
+      "prayer": "jumma1",
+      "iqamah": "13:35",
       "note": ""
     },
     {
       "from": "2026-08-15",
       "to": "9999-12-31",
-      "prayer": "jumma1",
-      "iqamah": "13:35",
+      "prayer": "zuhr",
+      "iqamah": "13:30",
       "note": ""
     }
   ],
