@@ -1,5 +1,6 @@
 [
   {
+    "id": "hadith-01",
     "reference": "Sahih al-Bukhari 1 — Narrated by Umar ibn al-Khattab (RA)",
     "arabic": "إِنَّمَا الْأَعْمَالُ بِالنِّيَّاتِ، وَإِنَّمَا لِكُلِّ امْرِئٍ مَا نَوَى",
     "translations": {
@@ -9,6 +10,7 @@
     }
   },
   {
+    "id": "hadith-02",
     "reference": "Sahih al-Bukhari 13 — Narrated by Anas (RA)",
     "arabic": "لَا يُؤْمِنُ أَحَدُكُمْ حَتَّى يُحِبَّ لِأَخِيهِ مَا يُحِبُّ لِنَفْسِهِ",
     "translations": {
@@ -18,6 +20,7 @@
     }
   },
   {
+    "id": "hadith-03",
     "reference": "Jami` at-Tirmidhi 1956 — Narrated by Abu Dharr (RA)",
     "arabic": "تَبَسُّمُكَ فِي وَجْهِ أَخِيكَ لَكَ صَدَقَةٌ",
     "translations": {
@@ -27,6 +30,7 @@
     }
   },
   {
+    "id": "hadith-04",
     "reference": "Sahih Muslim 2699 — Narrated by Abu Hurairah (RA)",
     "arabic": "مَنْ نَفَّسَ عَنْ مُؤْمِنٍ كُرْبَةً مِنْ كُرَبِ الدُّنْيَا، نَفَّسَ اللَّهُ عَنْهُ كُرْبَةً مِنْ كُرَبِ يَوْمِ الْقِيَامَةِ",
     "translations": {
@@ -36,6 +40,7 @@
     }
   },
   {
+    "id": "hadith-05",
     "reference": "Sahih al-Bukhari 6018 — Narrated by Abu Hurairah (RA)",
     "arabic": "مَنْ كَانَ يُؤْمِنُ بِاللَّهِ وَالْيَوْمِ الْآخِرِ فَلْيَقُلْ خَيْرًا أَوْ لِيَصْمُتْ",
     "translations": {
@@ -45,6 +50,7 @@
     }
   },
   {
+    "id": "hadith-06",
     "reference": "Sahih Muslim 223 — Narrated by Abu Malik al-Ash'ari (RA)",
     "arabic": "الطُّهُورُ شَطْرُ الْإِيمَانِ",
     "translations": {
@@ -54,6 +60,7 @@
     }
   },
   {
+    "id": "hadith-07",
     "reference": "Sahih al-Bukhari 5027 — Narrated by Uthman (RA)",
     "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
     "translations": {
@@ -63,6 +70,7 @@
     }
   },
   {
+    "id": "hadith-08",
     "reference": "Sahih Muslim 2588 — Narrated by Abu Hurairah (RA)",
     "arabic": "مَا نَقَصَتْ صَدَقَةٌ مِنْ مَالٍ",
     "translations": {

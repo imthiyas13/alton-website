@@ -1,5 +1,6 @@
 [
   {
+    "id": "wisdom-01",
     "reference": "Umar ibn al-Khattab (RA)",
     "arabic": "حَاسِبُوا أَنْفُسَكُمْ قَبْلَ أَنْ تُحَاسَبُوا، وَزِنُوا أَعْمَالَكُمْ قَبْلَ أَنْ تُوزَنُوا",
     "translations": {
@@ -7,6 +8,7 @@
     }
   },
   {
+    "id": "wisdom-02",
     "reference": "Ali ibn Abi Talib (RA)",
     "arabic": "قِيمَةُ كُلِّ امْرِئٍ مَا يُحْسِنُهُ",
     "translations": {
@@ -14,6 +16,7 @@
     }
   },
   {
+    "id": "wisdom-03",
     "reference": "Ali ibn Abi Talib (RA)",
     "arabic": "لَا تَكُنْ عَبْدَ غَيْرِكَ وَقَدْ جَعَلَكَ اللَّهُ حُرًّا",
     "translations": {
@@ -21,6 +24,7 @@
     }
   },
   {
+    "id": "wisdom-04",
     "reference": "Imam al-Shafi'i (rahimahullah)",
     "arabic": "الْوَقْتُ كَالسَّيْفِ، إِنْ لَمْ تَقْطَعْهُ قَطَعَكَ",
     "translations": {
@@ -28,6 +32,7 @@
     }
   },
   {
+    "id": "wisdom-05",
     "reference": "Imam al-Shafi'i (rahimahullah)",
     "arabic": "الْعِلْمُ مَا نَفَعَ، لَيْسَ الْعِلْمُ مَا حُفِظَ",
     "translations": {
@@ -35,6 +40,7 @@
     }
   },
   {
+    "id": "wisdom-06",
     "reference": "Hasan al-Basri (rahimahullah)",
     "arabic": "ابْنَ آدَمَ، إِنَّمَا أَنْتَ أَيَّامٌ، كُلَّمَا ذَهَبَ يَوْمٌ ذَهَبَ بَعْضُكَ",
     "translations": {
@@ -42,6 +48,7 @@
     }
   },
   {
+    "id": "wisdom-07",
     "reference": "Imam Ahmad ibn Hanbal (rahimahullah)",
     "arabic": "النَّاسُ إِلَى الْعِلْمِ أَحْوَجُ مِنْهُمْ إِلَى الطَّعَامِ وَالشَّرَابِ",
     "translations": {
@@ -49,6 +56,7 @@
     }
   },
   {
+    "id": "wisdom-08",
     "reference": "Ibn al-Qayyim (rahimahullah)",
     "arabic": "مَنْ أَرَادَ السَّعَادَةَ الْأَبَدِيَّةَ فَلْيَلْزَمْ عَتَبَةَ الْعُبُودِيَّةِ",
     "translations": {
@@ -56,6 +64,7 @@
     }
   },
   {
+    "id": "wisdom-09",
     "reference": "Imam al-Ghazali (rahimahullah)",
     "arabic": "الْعِلْمُ بِلَا عَمَلٍ جُنُونٌ، وَالْعَمَلُ بِغَيْرِ عِلْمٍ لَا يَكُونُ",
     "translations": {
@@ -63,6 +72,7 @@
     }
   },
   {
+    "id": "wisdom-10",
     "reference": "Abdullah ibn Abbas (RA)",
     "arabic": "مَنْ شَكَرَ اللَّهَ وَلَمْ يَشْكُرْ وَالِدَيْهِ لَمْ يُقْبَلْ مِنْهُ",
     "translations": {
@@ -70,6 +80,7 @@
     }
   },
   {
+    "id": "wisdom-11",
     "reference": "Abdullah ibn Umar (RA), to a man who carried his mother in tawaf",
     "arabic": "مَا جَزَيْتَهَا، وَلَا بِزَفْرَةٍ وَاحِدَةٍ مِنْ زَفَرَاتِهَا",
     "translations": {
