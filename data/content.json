@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T07:22:53Z",
+  "updatedAt": "2026-08-18T07:23:01Z",
   "show": {
     "Ayah": true,
     "Hadith": true,
@@ -61,6 +61,13 @@
         "reference": "Sahih al-Bukhari 5027 - Narrated by Uthman (RA)",
         "translations": {
           "en": "The best of you are those who learn the Qur'an and teach it."
+        }
+      },
+      "hadith-08": {
+        "arabic": "مَا نَقَصَتْ صَدَقَةٌ مِنْ مَالٍ",
+        "reference": "Sahih Muslim 2588 - Narrated by Abu Hurairah (RA)",
+        "translations": {
+          "en": "Charity does not decrease wealth."
         }
       }
     },
