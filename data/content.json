@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T07:23:01Z",
+  "updatedAt": "2026-08-18T07:23:31Z",
   "show": {
     "Ayah": true,
     "Hadith": true,
@@ -71,7 +71,15 @@
         }
       }
     },
-    "Wisdom": {}
+    "Wisdom": {
+      "wisdom-10": {
+        "arabic": "مَنْ شَكَرَ اللَّهَ وَلَمْ يَشْكُرْ وَالِدَيْهِ لَمْ يُقْبَلْ مِنْهُ",
+        "reference": "Abdullah ibn Abbas (RA)",
+        "translations": {
+          "en": "Whoever is grateful to Allah but not to his parents - it will not be accepted from him."
+        }
+      }
+    }
   },
   "items": []
 }
