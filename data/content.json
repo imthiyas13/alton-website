@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T14:20:55Z",
+  "updatedAt": "2026-08-18T07:21:53Z",
   "show": {
     "Ayah": true,
     "Hadith": true,
@@ -9,6 +9,19 @@
     "Ayah": [],
     "Hadith": [],
     "Wisdom": []
+  },
+  "edits": {
+    "Ayah": {
+      "ayah-05": {
+        "arabic": "وَمَن يَتَّقِ اللَّهَ يَجْعَل لَّهُ مَخْرَجًا ۝ وَيَرْزُقْهُ مِنْ حَيْثُ لَا يَحْتَسِبُ",
+        "reference": "Surah At-Talaq 65:2-3",
+        "translations": {
+          "en": "And whoever fears Allah - He will make for him a way out. And will provide for him from where he does not expect."
+        }
+      }
+    },
+    "Hadith": {},
+    "Wisdom": {}
   },
   "items": []
 }
