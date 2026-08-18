@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T07:22:28Z",
+  "updatedAt": "2026-08-18T07:22:38Z",
   "show": {
     "Ayah": true,
     "Hadith": true,
@@ -40,6 +40,13 @@
         "reference": "Jami` at-Tirmidhi 1956 - Narrated by Abu Dharr (RA)",
         "translations": {
           "en": "Your smile to your brother is a charity for you."
+        }
+      },
+      "hadith-04": {
+        "arabic": "مَنْ نَفَّسَ عَنْ مُؤْمِنٍ كُرْبَةً مِنْ كُرَبِ الدُّنْيَا، نَفَّسَ اللَّهُ عَنْهُ كُرْبَةً مِنْ كُرَبِ يَوْمِ الْقِيَامَةِ",
+        "reference": "Sahih Muslim 2699 - Narrated by Abu Hurairah (RA)",
+        "translations": {
+          "en": "Whoever relieves a believer's distress of the distresses of this world, Allah will relieve him of a distress on the Day of Resurrection."
         }
       }
     },
