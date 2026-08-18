@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T07:21:53Z",
+  "updatedAt": "2026-08-18T07:22:10Z",
   "show": {
     "Ayah": true,
     "Hadith": true,
@@ -20,7 +20,15 @@
         }
       }
     },
-    "Hadith": {},
+    "Hadith": {
+      "hadith-01": {
+        "arabic": "إِنَّمَا الْأَعْمَالُ بِالنِّيَّاتِ، وَإِنَّمَا لِكُلِّ امْرِئٍ مَا نَوَى",
+        "reference": "Sahih al-Bukhari 1 - Narrated by Umar ibn al-Khattab (RA)",
+        "translations": {
+          "en": "Actions are but by intentions, and every man shall have only that which he intended."
+        }
+      }
+    },
     "Wisdom": {}
   },
   "items": []
