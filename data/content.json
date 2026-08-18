@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T07:22:38Z",
+  "updatedAt": "2026-08-18T07:22:45Z",
   "show": {
     "Ayah": true,
     "Hadith": true,
@@ -47,6 +47,13 @@
         "reference": "Sahih Muslim 2699 - Narrated by Abu Hurairah (RA)",
         "translations": {
           "en": "Whoever relieves a believer's distress of the distresses of this world, Allah will relieve him of a distress on the Day of Resurrection."
+        }
+      },
+      "hadith-05": {
+        "arabic": "مَنْ كَانَ يُؤْمِنُ بِاللَّهِ وَالْيَوْمِ الْآخِرِ فَلْيَقُلْ خَيْرًا أَوْ لِيَصْمُتْ",
+        "reference": "Sahih al-Bukhari 6018 - Narrated by Abu Hurairah (RA)",
+        "translations": {
+          "en": "Whoever believes in Allah and the Last Day should speak good or remain silent."
         }
       }
     },
