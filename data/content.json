@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T07:22:10Z",
+  "updatedAt": "2026-08-18T07:22:20Z",
   "show": {
     "Ayah": true,
     "Hadith": true,
@@ -26,6 +26,13 @@
         "reference": "Sahih al-Bukhari 1 - Narrated by Umar ibn al-Khattab (RA)",
         "translations": {
           "en": "Actions are but by intentions, and every man shall have only that which he intended."
+        }
+      },
+      "hadith-02": {
+        "arabic": "لَا يُؤْمِنُ أَحَدُكُمْ حَتَّى يُحِبَّ لِأَخِيهِ مَا يُحِبُّ لِنَفْسِهِ",
+        "reference": "Sahih al-Bukhari 13 - Narrated by Anas (RA)",
+        "translations": {
+          "en": "None of you truly believes until he loves for his brother what he loves for himself."
         }
       }
     },
