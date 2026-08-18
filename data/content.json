@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T07:22:20Z",
+  "updatedAt": "2026-08-18T07:22:28Z",
   "show": {
     "Ayah": true,
     "Hadith": true,
@@ -33,6 +33,13 @@
         "reference": "Sahih al-Bukhari 13 - Narrated by Anas (RA)",
         "translations": {
           "en": "None of you truly believes until he loves for his brother what he loves for himself."
+        }
+      },
+      "hadith-03": {
+        "arabic": "تَبَسُّمُكَ فِي وَجْهِ أَخِيكَ لَكَ صَدَقَةٌ",
+        "reference": "Jami` at-Tirmidhi 1956 - Narrated by Abu Dharr (RA)",
+        "translations": {
+          "en": "Your smile to your brother is a charity for you."
         }
       }
     },
