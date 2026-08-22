@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T21:35:33Z",
+  "updatedAt": "2026-08-22T21:35:49Z",
   "show": {
     "Ayah": true,
     "Hadith": true,
@@ -75,6 +75,13 @@
         "reference": "Sahih Muslim 2588 - Narrated by Abu Hurairah (RA)",
         "translations": {
           "en": "Charity does not decrease wealth."
+        }
+      },
+      "hadith-06": {
+        "arabic": "الطُّهُورُ شَطْرُ الْإِيمَانِ",
+        "reference": "Sahih Muslim 223 - Narrated by Abu Malik al-Ash'ari (RA)",
+        "translations": {
+          "en": "Cleanliness is half of faith."
         }
       }
     },
